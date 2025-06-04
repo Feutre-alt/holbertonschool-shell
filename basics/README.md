@@ -1,2 +1,2 @@
 Script that print the absolute path name of the current working directory.
-Script show directory component
+Script that display the contents list of your current directory.
