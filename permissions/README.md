@@ -4,3 +4,4 @@ Scripts :
 2 - Show the current user's groupe
 3 - Change to betty the hello files's property
 4 - Create new empty file name hello
+5 - Add execute permissions to the hello file's owner
