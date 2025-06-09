@@ -1,3 +1,4 @@
+
 Scripts :
 0 - Change active user to betty.
 1 - Print the effective username of the current user.
@@ -6,3 +7,4 @@ Scripts :
 4 - Create new empty file name hello
 5 - Add execute permissions to the hello file's owner
 6 - Add script to change multiple permissions for hello file
+7 - Change execute permission for everybody for hello files
