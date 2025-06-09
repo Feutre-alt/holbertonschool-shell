@@ -1,0 +1,8 @@
+#!/bin/bash
+echo "Enter Add specification :"
+echo "Enter commit message :"
+read addSpec
+read commitMessage
+git add "$addSpec"
+git commit -m "$commitMessage"
+git push
