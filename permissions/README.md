@@ -5,3 +5,4 @@ Scripts :
 3 - Change to betty the hello files's property
 4 - Create new empty file name hello
 5 - Add execute permissions to the hello file's owner
+6 - Add script to change multiple permissions for hello file
